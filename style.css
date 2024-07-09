@@ -567,7 +567,7 @@
   align-items: center;
   text-align: center;
   background-color: var(--card-bg-color);
-  color: var(--card-text-color);
+  color: var(--color-grey-2);
 }
 
 .card-front {
@@ -598,7 +598,7 @@
   width: calc(100% - 340px);
   padding: 20px;
   background-color: var(--card-bg-color);
-  color: var(--card-text-color);
+  color: var(--color-grey-2);
   border-radius: 10px;
   box-shadow: var(--card-shadow);
 }
